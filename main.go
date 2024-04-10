@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/fatih/color"
-	"github.com/ram-alb/hexlet-go/greeting"
+	"github.com/ram-alb/hexlet-go/v2/greeting"
 )
 
 func main() {

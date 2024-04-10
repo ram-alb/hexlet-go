@@ -1,4 +1,4 @@
-module github.com/ram-alb/hexlet-go
+module github.com/ram-alb/hexlet-go/v2
 
 go 1.22.1
 
